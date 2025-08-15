@@ -4,7 +4,7 @@
 
 # 1. Leer el nombre del archivo y el patrón de búsqueda del usuario.
 echo "Buscador y Contador de Texto"
-read -p "Ingresa el nombre del archivo de texto (ej. rfc.txt): " nombre_archivo
+read -p "Ingresa el nombre del archivo de texto (ej. texto.txt): " nombre_archivo
 read -p "Ingresa el patrón de texto que deseas buscar: " patron
 
 # 2. Verificar si el archivo existe.
