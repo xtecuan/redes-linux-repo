@@ -1,0 +1,4 @@
+nombres: Josue Aldair
+apellidos: Navas Ramos
+e-mail: josue.navas408@gmail.com
+reporte del 19082025
